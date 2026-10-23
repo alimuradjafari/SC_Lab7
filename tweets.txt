@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "user.screen_name": "alyssa",
+        "text": "is it reasonable to talk about rivest so much?",
+        "created_at": "Wed Feb 17 10:00:00 +0000 2016"
+    },
+    {
+        "id": 2,
+        "user.screen_name": "bbitdiddle",
+        "text": "rivest talk in 30 minutes #hype",
+        "created_at": "Wed Feb 17 11:00:00 +0000 2016"
+    },
+    {
+        "id": 3,
+        "user.screen_name": "alyssa",
+        "text": "@bbitdiddle saving you a seat, ask @Evaluator too",
+        "created_at": "Wed Feb 17 12:30:00 +0000 2016"
+    },
+    {
+        "id": 4,
+        "user.screen_name": "evaluator",
+        "text": "thanks @BBitDiddle! mail me at eval@mit.edu",
+        "created_at": "Wed Feb 17 11:05:00 +0000 2016"
+    },
+    {
+        "id": 5,
+        "user.screen_name": "cy_d_fect",
+        "text": "see you there @cy_d_fect_2",
+        "created_at": "Wed Feb 17 10:15:00 +0000 2016"
+    },
+    {
+        "id": 6,
+        "user.screen_name": "alyssa",
+        "text": "pset 1 is due next week #rivest",
+        "created_at": "Wed Feb 17 13:00:00 +0000 2016"
+    },
+    {
+        "id": 7,
+        "user.screen_name": "bbitdiddle",
+        "text": "anyone else stuck on pset 1?",
+        "created_at": "Wed Feb 17 14:20:00 +0000 2016"
+    },
+    {
+        "id": 8,
+        "user.screen_name": "Evaluator",
+        "text": "hello @alyssa and @bbitdiddle",
+        "created_at": "Wed Feb 17 15:00:00 +0000 2016"
+    }
+]
